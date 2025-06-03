@@ -36,3 +36,4 @@ This project is open-sourced under the MIT License.
 ## Acknowledgments
 - The Three.js team for their comprehensive 3D library.
 ## Preview
+![Each sphere in different browser tab.](multipleWindow3dScene/image/Screenshot 2025-06-03 200134.png)
