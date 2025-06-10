@@ -35,5 +35,7 @@ This project is open-sourced under the MIT License.
 
 ## Acknowledgments
 - The Three.js team for their comprehensive 3D library.
+## Live Demo
+Check out the project in action: [multipleWindow3dScene Live Demo](https://abhaysharma3666.github.io/multipleWindow3dScene/)
 ## Preview
 ![Each sphere in different browser tab.](image/Screenshot%202025-06-03%20200134.png)
